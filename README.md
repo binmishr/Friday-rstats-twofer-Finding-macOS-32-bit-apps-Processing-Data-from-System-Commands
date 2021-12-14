@@ -1,0 +1,1 @@
+# Friday-rstats-twofer-Finding-macOS-32-bit-apps-Processing-Data-from-System-Commands
